@@ -1,0 +1,4 @@
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\TwinCars\Gma.UserActivityMonitor\bin\Debug\TwinHook.dll
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\TwinCars\Gma.UserActivityMonitor\bin\Debug\TwinHook.pdb
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\TwinCars\Gma.UserActivityMonitor\obj\Debug\TwinHook.dll
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\TwinCars\Gma.UserActivityMonitor\obj\Debug\TwinHook.pdb

@@ -1,0 +1,9 @@
+c:\users\macabral\documents\visual studio 2010\Projects\CountTheDays\CountTheDays\bin\Debug\CountTheDays.exe
+c:\users\macabral\documents\visual studio 2010\Projects\CountTheDays\CountTheDays\bin\Debug\CountTheDays.pdb
+c:\users\macabral\documents\visual studio 2010\Projects\CountTheDays\CountTheDays\obj\x86\Debug\CountTheDays.exe
+c:\users\macabral\documents\visual studio 2010\Projects\CountTheDays\CountTheDays\obj\x86\Debug\CountTheDays.pdb
+C:\Users\we love lola\Desktop\Games\MyGames\CountTheDays\CountTheDays\obj\x86\Debug\CountTheDays.exe
+C:\Users\we love lola\Desktop\Games\MyGames\CountTheDays\CountTheDays\obj\x86\Debug\CountTheDays.pdb
+C:\Users\we love lola\Desktop\Games\MyGames\CountTheDays\CountTheDays\bin\Debug\CountTheDays.exe
+C:\Users\we love lola\Desktop\Games\MyGames\CountTheDays\CountTheDays\bin\Debug\CountTheDays.pdb
+C:\Users\we love lola\Desktop\Games\MyGames\CountTheDays\CountTheDays\obj\x86\Debug\CountTheDays.csprojResolveAssemblyReference.cache

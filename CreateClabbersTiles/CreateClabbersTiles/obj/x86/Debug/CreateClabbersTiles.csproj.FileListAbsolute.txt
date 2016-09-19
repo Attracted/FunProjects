@@ -1,0 +1,6 @@
+c:\users\macabral\documents\visual studio 2010\Projects\CreateClabbersTiles\CreateClabbersTiles\obj\x86\Debug\CreateClabbersTiles.Properties.Resources.resources
+c:\users\macabral\documents\visual studio 2010\Projects\CreateClabbersTiles\CreateClabbersTiles\obj\x86\Debug\CreateClabbersTiles.csproj.GenerateResource.Cache
+c:\users\macabral\documents\visual studio 2010\Projects\CreateClabbersTiles\CreateClabbersTiles\bin\Debug\CreateClabbersTiles.exe
+c:\users\macabral\documents\visual studio 2010\Projects\CreateClabbersTiles\CreateClabbersTiles\bin\Debug\CreateClabbersTiles.pdb
+c:\users\macabral\documents\visual studio 2010\Projects\CreateClabbersTiles\CreateClabbersTiles\obj\x86\Debug\CreateClabbersTiles.exe
+c:\users\macabral\documents\visual studio 2010\Projects\CreateClabbersTiles\CreateClabbersTiles\obj\x86\Debug\CreateClabbersTiles.pdb

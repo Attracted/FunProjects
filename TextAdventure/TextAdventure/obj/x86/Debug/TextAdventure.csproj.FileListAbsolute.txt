@@ -1,0 +1,9 @@
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\TextAdventure\TextAdventure\bin\Debug\TextAdventure.exe
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\TextAdventure\TextAdventure\bin\Debug\TextAdventure.pdb
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\TextAdventure\TextAdventure\obj\x86\Debug\TextAdventure.exe
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\TextAdventure\TextAdventure\obj\x86\Debug\TextAdventure.pdb
+C:\Users\we love lola\Desktop\Games\MyGames\Matthew Cabral Projects\TextAdventure\TextAdventure\obj\x86\Debug\TextAdventure.exe
+C:\Users\we love lola\Desktop\Games\MyGames\Matthew Cabral Projects\TextAdventure\TextAdventure\obj\x86\Debug\TextAdventure.pdb
+C:\Users\we love lola\Desktop\Games\MyGames\Matthew Cabral Projects\TextAdventure\TextAdventure\bin\Debug\TextAdventure.exe
+C:\Users\we love lola\Desktop\Games\MyGames\Matthew Cabral Projects\TextAdventure\TextAdventure\bin\Debug\TextAdventure.pdb
+C:\Users\we love lola\Desktop\Games\MyGames\Matthew Cabral Projects\TextAdventure\TextAdventure\obj\x86\Debug\TextAdventure.csprojResolveAssemblyReference.cache

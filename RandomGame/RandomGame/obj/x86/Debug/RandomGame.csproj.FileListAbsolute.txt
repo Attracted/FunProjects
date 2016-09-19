@@ -1,0 +1,9 @@
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\RandomGame\RandomGame\bin\Debug\RandomGame.exe
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\RandomGame\RandomGame\bin\Debug\RandomGame.pdb
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\RandomGame\RandomGame\obj\x86\Debug\RandomGame.exe
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\RandomGame\RandomGame\obj\x86\Debug\RandomGame.pdb
+C:\Users\we love lola\Desktop\Games\MyGames\Matthew Cabral Projects\RandomGame\RandomGame\obj\x86\Debug\RandomGame.exe
+C:\Users\we love lola\Desktop\Games\MyGames\Matthew Cabral Projects\RandomGame\RandomGame\obj\x86\Debug\RandomGame.pdb
+C:\Users\we love lola\Desktop\Games\MyGames\Matthew Cabral Projects\RandomGame\RandomGame\bin\Debug\RandomGame.exe
+C:\Users\we love lola\Desktop\Games\MyGames\Matthew Cabral Projects\RandomGame\RandomGame\bin\Debug\RandomGame.pdb
+C:\Users\we love lola\Desktop\Games\MyGames\Matthew Cabral Projects\RandomGame\RandomGame\obj\x86\Debug\RandomGame.csprojResolveAssemblyReference.cache

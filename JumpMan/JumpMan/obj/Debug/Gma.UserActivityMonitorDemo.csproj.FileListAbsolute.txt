@@ -1,0 +1,11 @@
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitorDemo\bin\Debug\Gma.UserActivityMonitorDemo.exe
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitorDemo\bin\Debug\Gma.UserActivityMonitorDemo.pdb
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitorDemo\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitorDemo\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitorDemo\obj\Debug\Gma.UserActivityMonitorDemo.csprojResolveAssemblyReference.cache
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitorDemo\obj\Debug\Gma.UserActivityMonitorDemo.TestFormStatic.resources
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitorDemo\obj\Debug\Gma.UserActivityMonitorDemo.TestFormComponent.resources
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitorDemo\obj\Debug\Gma.UserActivityMonitorDemo.Properties.Resources.resources
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitorDemo\obj\Debug\Gma.UserActivityMonitorDemo.csproj.GenerateResource.Cache
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitorDemo\obj\Debug\Gma.UserActivityMonitorDemo.exe
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitorDemo\obj\Debug\Gma.UserActivityMonitorDemo.pdb

@@ -1,0 +1,5 @@
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitor\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitor\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.csprojResolveAssemblyReference.cache
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.dll
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.pdb

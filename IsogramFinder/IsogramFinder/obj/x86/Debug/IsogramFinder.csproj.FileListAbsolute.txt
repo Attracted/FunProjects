@@ -1,0 +1,9 @@
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\IsogramFinder\IsogramFinder\bin\Debug\IsogramFinder.exe
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\IsogramFinder\IsogramFinder\bin\Debug\IsogramFinder.pdb
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\IsogramFinder\IsogramFinder\obj\x86\Debug\IsogramFinder.Properties.Resources.resources
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\IsogramFinder\IsogramFinder\obj\x86\Debug\IsogramFinder.csproj.GenerateResource.Cache
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\IsogramFinder\IsogramFinder\obj\x86\Debug\IsogramFinder.exe
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\IsogramFinder\IsogramFinder\obj\x86\Debug\IsogramFinder.pdb
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\IsogramFinder\IsogramFinder\obj\x86\Debug\IsogramFinder.csprojResolveAssemblyReference.cache
+C:\Users\we love lola\Desktop\Games\MyGames\Matthew Cabral Projects\IsogramFinder\IsogramFinder\obj\x86\Debug\IsogramFinder.exe
+C:\Users\we love lola\Desktop\Games\MyGames\Matthew Cabral Projects\IsogramFinder\IsogramFinder\obj\x86\Debug\IsogramFinder.pdb

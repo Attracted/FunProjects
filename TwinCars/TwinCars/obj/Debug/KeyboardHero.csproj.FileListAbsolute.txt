@@ -1,0 +1,15 @@
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitorDemo\bin\Debug\KeyboardHero.pdb
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitorDemo\obj\Debug\KeyboardHero.csprojResolveAssemblyReference.cache
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitorDemo\obj\Debug\Gma.UserActivityMonitorDemo.GameForm.resources
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitorDemo\obj\Debug\Gma.UserActivityMonitorDemo.TestFormComponent.resources
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitorDemo\obj\Debug\KeyboardHero.csproj.GenerateResource.Cache
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitorDemo\bin\Debug\KeyboardHero.exe.config
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitorDemo\bin\Debug\KeyboardHero.exe
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitorDemo\obj\Debug\KeyboardHero.Properties.Resources.resources
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitorDemo\obj\Debug\KeyboardHero.exe
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitorDemo\obj\Debug\KeyboardHero.pdb
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitorDemo\bin\Debug\KeyboardHook.dll
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitorDemo\bin\Debug\KeyboardHook.pdb
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\TwinCars\Gma.UserActivityMonitorDemo\bin\Debug\KeyboardHero.exe.config
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\TwinCars\Gma.UserActivityMonitorDemo\obj\Debug\KeyboardHero.exe
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\TwinCars\Gma.UserActivityMonitorDemo\obj\Debug\KeyboardHero.pdb

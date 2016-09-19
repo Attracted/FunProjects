@@ -1,0 +1,5 @@
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitor\bin\Debug\KeyboardHook.dll
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitor\bin\Debug\KeyboardHook.pdb
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitor\obj\Debug\KeyboardHook.dll
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitor\obj\Debug\KeyboardHook.pdb
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\GlobalHook\Gma.UserActivityMonitor\bin\Debug\Gma.xml

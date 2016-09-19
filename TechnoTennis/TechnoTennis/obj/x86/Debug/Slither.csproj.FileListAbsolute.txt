@@ -1,0 +1,8 @@
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\Slither\Slither\obj\x86\Debug\Slither.Properties.Resources.resources
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\Slither\Slither\obj\x86\Debug\Slither.csproj.GenerateResource.Cache
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\Slither\Slither\bin\Debug\Slither.exe
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\Slither\Slither\bin\Debug\Slither.pdb
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\Slither\Slither\obj\x86\Debug\Slither.exe
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\Slither\Slither\obj\x86\Debug\Slither.pdb
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\TechnoTennis\Slither\obj\x86\Debug\Slither.exe
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\TechnoTennis\Slither\obj\x86\Debug\Slither.pdb

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="0a527ec2-d493-409d-ae53-60812ff6c789" name="macabral@CABOLPC0092 2014-10-31 08:03:46" runUser="HUSKY1\macabral" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="5123d902-b7f8-45b3-b4f8-4cc467d55b7c">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment userDeploymentRoot="C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\Clabbers\TestResults" useDefaultDeploymentRoot="false" enabled="false" runDeploymentRoot="macabral_CABOLPC0092 2014-10-31 08_03_46">
+      <DeploymentItem filename="C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\Clabbers\Clabbers\bin\Debug\Clabbers.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-10-31T08:03:46.8880677-04:00" queuing="2014-10-31T08:03:48.3838668-04:00" start="2014-10-31T08:03:48.4738848-04:00" finish="2014-10-31T08:04:10.2102312-04:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="2" executed="2" error="0" failed="2" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="SaveGameState_DesignIntent" storage="c:\users\macabral\documents\visual studio 2010\projects\matthew cabral projects\clabbers\solvertest\bin\debug\solvertest.dll" id="ef7c87b5-094d-72dd-2741-d7886f3387c0">
+      <Execution id="9bd04b20-e2d1-4b5d-a848-65d153478d27" />
+      <TestMethod codeBase="C:/Users/macabral/Documents/Visual Studio 2010/Projects/Matthew Cabral Projects/Clabbers/SolverTest/bin/Debug/SolverTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ClabbersTest.GameManagerTests, SolverTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SaveGameState_DesignIntent" />
+    </UnitTest>
+    <UnitTest name="MakePlayers_DesignIntent" storage="c:\users\macabral\documents\visual studio 2010\projects\matthew cabral projects\clabbers\solvertest\bin\debug\solvertest.dll" id="d0f47a69-9832-0a64-220f-62754308e5f8">
+      <Execution id="cbe48e02-34fb-4bf5-b74a-1cce736d8a2e" />
+      <TestMethod codeBase="C:/Users/macabral/Documents/Visual Studio 2010/Projects/Matthew Cabral Projects/Clabbers/SolverTest/bin/Debug/SolverTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ClabbersTest.GameManagerTests, SolverTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MakePlayers_DesignIntent" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="ef7c87b5-094d-72dd-2741-d7886f3387c0" executionId="9bd04b20-e2d1-4b5d-a848-65d153478d27" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d0f47a69-9832-0a64-220f-62754308e5f8" executionId="cbe48e02-34fb-4bf5-b74a-1cce736d8a2e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="9bd04b20-e2d1-4b5d-a848-65d153478d27" testId="ef7c87b5-094d-72dd-2741-d7886f3387c0" testName="SaveGameState_DesignIntent" computerName="CABOLPC0092" duration="00:00:11.1382789" startTime="2014-10-31T08:03:48.5589018-04:00" endTime="2014-10-31T08:04:00.9573810-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9bd04b20-e2d1-4b5d-a848-65d153478d27">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method ClabbersTest.GameManagerTests.SaveGameState_DesignIntent threw exception: 
+System.ArgumentNullException: Value cannot be null.
+Parameter name: source</Message>
+          <StackTrace>    at System.Linq.Enumerable.Contains[TSource](IEnumerable`1 source, TSource value, IEqualityComparer`1 comparer)
+   at System.Linq.Enumerable.Contains[TSource](IEnumerable`1 source, TSource value)
+   at Clabbers.TileBag.AddTile(Tile tile) in C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\Clabbers\Clabbers\TileBag.cs:line 26
+   at Clabbers.GameManager.MakeTiles(String tiles) in C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\Clabbers\Clabbers\GameManager.cs:line 513
+   at ClabbersTest.GameManagerTests.MakeGame(Int32 handSize, Int32 numOpp) in C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\Clabbers\SolverTest\GameManagerTests.cs:line 183
+   at ClabbersTest.GameManagerTests.SaveGameState_DesignIntent() in C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\Clabbers\SolverTest\GameManagerTests.cs:line 230
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="cbe48e02-34fb-4bf5-b74a-1cce736d8a2e" testId="d0f47a69-9832-0a64-220f-62754308e5f8" testName="MakePlayers_DesignIntent" computerName="CABOLPC0092" duration="00:00:09.1845709" startTime="2014-10-31T08:04:00.9838863-04:00" endTime="2014-10-31T08:04:10.1737239-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cbe48e02-34fb-4bf5-b74a-1cce736d8a2e">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method ClabbersTest.GameManagerTests.MakePlayers_DesignIntent threw exception: 
+System.ArgumentNullException: Value cannot be null.
+Parameter name: source</Message>
+          <StackTrace>    at System.Linq.Enumerable.Contains[TSource](IEnumerable`1 source, TSource value, IEqualityComparer`1 comparer)
+   at System.Linq.Enumerable.Contains[TSource](IEnumerable`1 source, TSource value)
+   at Clabbers.TileBag.AddTile(Tile tile) in C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\Clabbers\Clabbers\TileBag.cs:line 26
+   at Clabbers.GameManager.MakeTiles(String tiles) in C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\Clabbers\Clabbers\GameManager.cs:line 513
+   at ClabbersTest.GameManagerTests.MakeGame(Int32 handSize, Int32 numOpp) in C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\Clabbers\SolverTest\GameManagerTests.cs:line 183
+   at ClabbersTest.GameManagerTests.MakePlayers_DesignIntent() in C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\Clabbers\SolverTest\GameManagerTests.cs:line 199
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

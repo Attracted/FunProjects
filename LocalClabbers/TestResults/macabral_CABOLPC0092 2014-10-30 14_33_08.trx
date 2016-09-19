@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="a291681d-09d4-47c1-abfc-3db2c24aa07d" name="macabral@CABOLPC0092 2014-10-30 14:33:08" runUser="HUSKY1\macabral" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="5123d902-b7f8-45b3-b4f8-4cc467d55b7c">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment userDeploymentRoot="C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\Clabbers\TestResults" useDefaultDeploymentRoot="false" enabled="false" runDeploymentRoot="macabral_CABOLPC0092 2014-10-30 14_33_08">
+      <DeploymentItem filename="C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\Clabbers\Clabbers\bin\Debug\Clabbers.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-10-30T14:33:08.4599827-04:00" queuing="2014-10-30T14:33:09.3251557-04:00" start="2014-10-30T14:33:09.3961699-04:00" finish="2014-10-30T14:33:19.9147732-04:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="CABOLPC0092" outcome="Error" timestamp="2014-10-30T14:33:19.7782459-04:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="SaveGameState_DesignIntent" storage="c:\users\macabral\documents\visual studio 2010\projects\matthew cabral projects\clabbers\solvertest\bin\debug\solvertest.dll" id="ef7c87b5-094d-72dd-2741-d7886f3387c0">
+      <Execution id="b05d0ecc-792a-450b-a295-3b5ca3713472" />
+      <TestMethod codeBase="C:/Users/macabral/Documents/Visual Studio 2010/Projects/Matthew Cabral Projects/Clabbers/SolverTest/bin/Debug/SolverTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ClabbersTest.GameManagerTests, SolverTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SaveGameState_DesignIntent" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="ef7c87b5-094d-72dd-2741-d7886f3387c0" executionId="b05d0ecc-792a-450b-a295-3b5ca3713472" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="b05d0ecc-792a-450b-a295-3b5ca3713472" testId="ef7c87b5-094d-72dd-2741-d7886f3387c0" testName="SaveGameState_DesignIntent" computerName="CABOLPC0092" duration="00:00:10.4395875" startTime="2014-10-30T14:33:09.4751857-04:00" endTime="2014-10-30T14:33:19.9147732-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b05d0ecc-792a-450b-a295-3b5ca3713472">
+    </UnitTestResult>
+  </Results>
+</TestRun>

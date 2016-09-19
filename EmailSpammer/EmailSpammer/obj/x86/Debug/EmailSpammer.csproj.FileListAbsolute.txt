@@ -1,0 +1,12 @@
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\EmailSpammer\EmailSpammer\bin\Debug\EmailSpammer.exe
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\EmailSpammer\EmailSpammer\bin\Debug\EmailSpammer.pdb
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\EmailSpammer\EmailSpammer\obj\x86\Debug\EmailSpammer.Properties.Resources.resources
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\EmailSpammer\EmailSpammer\obj\x86\Debug\EmailSpammer.csproj.GenerateResource.Cache
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\EmailSpammer\EmailSpammer\obj\x86\Debug\EmailSpammer.exe
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\EmailSpammer\EmailSpammer\obj\x86\Debug\EmailSpammer.pdb
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\EmailSpammer\EmailSpammer\obj\x86\Debug\EmailSpammer.EmailSender.resources
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\EmailSpammer\EmailSpammer\bin\Debug\EmailSpammer.exe.config
+C:\Users\macabral\Documents\Visual Studio 2010\Projects\Matthew Cabral Projects\EmailSpammer\EmailSpammer\obj\x86\Debug\EmailSpammer.csprojResolveAssemblyReference.cache
+C:\Users\we love lola\Desktop\Games\MyGames\Matthew Cabral Projects\EmailSpammer\EmailSpammer\bin\Debug\EmailSpammer.exe.config
+C:\Users\we love lola\Desktop\Games\MyGames\Matthew Cabral Projects\EmailSpammer\EmailSpammer\obj\x86\Debug\EmailSpammer.exe
+C:\Users\we love lola\Desktop\Games\MyGames\Matthew Cabral Projects\EmailSpammer\EmailSpammer\obj\x86\Debug\EmailSpammer.pdb

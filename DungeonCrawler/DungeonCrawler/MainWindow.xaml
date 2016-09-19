@@ -1,0 +1,33 @@
+﻿<Window x:Class="DungeonCrawler.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" Loaded="Window_Loaded">
+    <Grid Background="#FF553E3E">
+        <TabControl Height="287" HorizontalAlignment="Left" Margin="12,12,0,0" Name="tabControl1" VerticalAlignment="Top" Width="479" Background="#FF6F6868" SelectionChanged="tabControl1_SelectionChanged">
+            <TabItem Header="Game" Name="tabItem1" Foreground="#FFCECECE">
+                <Grid>
+                    <Border BorderBrush="Silver" BorderThickness="1" Height="255" HorizontalAlignment="Left" Margin="280,0,0,0" Name="border1" VerticalAlignment="Top" Width="189" Background="Black"></Border>
+                    <Border BorderBrush="Silver" BorderThickness="1" Height="254" Name="border2" Margin="0,0,187,1" Background="#FF311E1E" />
+                </Grid>
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black" Offset="1" />
+                        <GradientStop Color="#FFC1ABAB" Offset="0" />
+                    </LinearGradientBrush>
+                </TabItem.Background>
+            </TabItem>
+            <TabItem Header="Options" Name="tabItem2" Foreground="#FFCECECE">
+                <Grid>
+                    <Border BorderBrush="Silver" BorderThickness="1" Height="255" HorizontalAlignment="Left" Margin="280,0,0,0" Name="border3" VerticalAlignment="Top" Width="189" Background="Black" />
+                    <Border BorderBrush="Silver" BorderThickness="1" Height="254" Margin="0,0,187,1" Name="border4" Background="#FF311E1E" />
+                </Grid>
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black" Offset="1" />
+                        <GradientStop Color="#FFC1ABAB" Offset="0" />
+                    </LinearGradientBrush>
+                </TabItem.Background>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>
